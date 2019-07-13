@@ -19,4 +19,10 @@ public class TestCase1 extends BaseClass
 	{
 		
 	}
+	
+	@Test
+	public void user2ForGit()
+	{
+		
+	}
 }
